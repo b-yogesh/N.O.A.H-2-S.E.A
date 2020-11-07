@@ -1,4 +1,6 @@
-#Inspired from https://github.com/birds-on-mars/birdsonearth for ZooHackathon
+"""
+Inspired from https://github.com/ecm200/caltech_birds for ZooHackathon Europe 2020
+"""
 
 import pickle
 import torch

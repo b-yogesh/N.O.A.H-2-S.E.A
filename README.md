@@ -14,6 +14,6 @@ This project was developed as a part of submission to this hackathon.
 
 ## Solution Summary:
 
-N.O.A.H 2 S.E.A is an easy to use social impact app that enables citizens to capture, record, identify products with respect to endangered spieces and report them by sharing the location & help authorities to take actions, and find alternative products thereby contributing to curb the illegal wildlife trafficing.
+N.O.A.H 2 S.E.A is an easy to use social impact app that enables citizens to capture, record, identify products with respect to endangered species and report them by sharing the location & help authorities to take actions, and find alternative products thereby contributing to curb the illegal wildlife trafficking.
 
-It further enables citizen & organisations to form associations for wildlife awareness, create impact from grass root levels! Earn credits each time you connect and spend wisely by being close to nature.
+It further enables citizen & organizations to form associations for wildlife awareness, create impact from grass root levels! Earn credits each time you connect and spend wisely by being close to nature

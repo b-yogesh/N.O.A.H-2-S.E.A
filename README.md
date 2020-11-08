@@ -12,7 +12,7 @@ This project was developed as a part of submission to this hackathon.
 #### N.O.A.H 2 S.E.A is an acronym and stands for New Opportunities of Awareness Hub '2' Save Endangered Animals. 
 #### We have tackled the European Challenge 5 from the various challenges (https://zoohackathon-2020-europe.devpost.com/details/problems)
 
-#### Video Link: https://www.youtube.com/watch?v=Bs4FpjKMsWs&feature=youtu.be&ab_channel=shivaneepanchal
+#### Video Link: https://www.youtube.com/watch?v=Bs4FpjKMsWs
 
 ## Solution Summary:
 

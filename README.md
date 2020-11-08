@@ -3,7 +3,7 @@
 
 ## ZooHackathon Europe 2020 (https://zoohackathon-2020-europe.devpost.com/)
 
-![](![](https://cdn.discordapp.com/attachments/764126172530606080/774916871945322536/09-01.jpg))
+![](https://cdn.discordapp.com/attachments/764126172530606080/774916871945322536/09-01.jpg)
 
 Zoohackathon 2020 is a global competition run by the U.S. Department of State that harnesses the power of technological innovation and the raising of public awareness to combat wildlife trafficking.
 
